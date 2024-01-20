@@ -49,5 +49,20 @@
             <groupId>com.github.wechatpay-apiv3</groupId>
             <artifactId>wechatpay-apache-httpclient</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.8.7</version>
+        </dependency>
+        <!--aspectjweaver是包含aspectjrt，所以不需要引入aspectjrt-->
+        <!--aspectjweaver是包含aspectjrt，所以不需要引入aspectjrt-->
+        <!--aspectjweaver是包含aspectjrt，所以不需要引入aspectjrt-->
+        <dependency>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjrt</artifactId>
+            <version>1.8.13</version>
+        </dependency>
+
     </dependencies>
 </project>
