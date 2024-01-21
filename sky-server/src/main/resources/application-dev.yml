@@ -1,3 +1,5 @@
+#开发环境下的配置文件
+
 sky:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -6,3 +8,9 @@ sky:
     database: sky_take_out
     username: root
     password: root
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5t7tHyXgznHH6dHnYViD
+    access-key-secret: KTWj60jHtS6q8qFw56y2Yz54JmEKtH
+    bucket-name: zhyyang
+
