@@ -14,3 +14,8 @@ sky:
     access-key-secret: KTWj60jHtS6q8qFw56y2Yz54JmEKtH
     bucket-name: zhyyang
 
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
